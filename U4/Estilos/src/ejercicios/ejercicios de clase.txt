@@ -1,0 +1,10 @@
+Ejercicio Nro 1:
+Crea un componente Card con un titulo y un parrafo:
+ -> Usa Card.module.css (esta es la hoja de estilo)
+ -> Aplicar bordes redondeados y color de fondo personalizado
+
+ Ejercicio Nro 2:
+Crea un componente Alerta que reciba un prop tipo.
+    -> Si ( tipo = error ) -> el fondo sera rojo
+    -> Si ( Tipo = exito ) -> El fondo sera verde.
+el texto siempre en blanco
